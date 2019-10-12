@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="6"
+    android:padding="5dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/seasonalFruitsId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Seasonal Fruits"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginBottom="3dp"
+        />
+    <Button
+        android:id="@+id/fruitsVitaminId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Fruits Vitamin"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        />
+    <Button
+        android:id="@+id/nationalFruitsId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="National Fruits"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        />
+    <Button
+        android:id="@+id/fruitRelatedVideosId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Fruit related videos"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        />
+    <Button
+        android:id="@+id/shareThisAppId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Share app"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="3dp"
+        />
+    <Button
+        android:id="@+id/aboutUsId"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="About us"
+        android:textColor="#FFFFFF"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:background="@drawable/seasonal_button_design"
+        android:layout_marginTop="3dp"
+        />
+
+</LinearLayout>

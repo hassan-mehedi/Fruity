@@ -1,0 +1,428 @@
+<resources>
+    <string name="app_name">Fruity</string>
+
+    <string-array name="country_names">
+
+        <item>China </item>
+        <item>India </item>
+        <item>Indonesia </item>
+        <item>Pakistan </item>
+        <item>Bangladesh </item>
+        <item>Japan </item>
+        <item>Philippines </item>
+        <item>Vietnam </item>
+        <item>Turkey </item>
+        <item>Iran </item>
+        <item>Thailand </item>
+        <item>Myanmar </item>
+        <item>South Korea </item>
+        <item>Iraq </item>
+        <item>Afghanistan </item>
+        <item>Saudi Arabia </item>
+        <item>Uzbekistan </item>
+        <item>Malaysia </item>
+        <item>Yemen </item>
+        <item>Nepal </item>
+        <item>North Korea </item>
+        <item>Sri Lanka </item>
+        <item>Kazakhstan </item>
+        <item>Syria </item>
+        <item>Cambodia </item>
+        <item>Jordan </item>
+        <item>Azerbaijan </item>
+        <item>UAE </item>
+        <item>Tajikistan </item>
+        <item>Israel </item>
+        <item>Laos </item>
+        <item>Lebanon </item>
+        <item>Kyrgyzstan </item>
+        <item>Turkmenistan </item>
+        <item>Singapore </item>
+        <item>Oman </item>
+        <item>Kuwait </item>
+        <item>Georgia </item>
+        <item>Mongolia </item>
+        <item>Armenia </item>
+        <item>Qatar </item>
+        <item>Bahrain </item>
+        <item>Cyprus </item>
+        <item>Bhutan </item>
+        <item>Maldives </item>
+
+    </string-array>
+
+    <string-array name="national_fruits_name">
+
+        <item> Jujube </item>
+        <item> Mango</item>
+        <item> Durian</item>
+        <item> Mango</item>
+        <item> Jackfruit</item>
+        <item> Persimmon</item>
+        <item> Mango</item>
+        <item> Durian</item>
+        <item> No national fruit</item>
+        <item> Pomegranate</item>
+        <item> Mangosteen</item>
+        <item> Rambutan </item>
+        <item> Persimmon </item>
+        <item> Fig </item>
+        <item> Peach</item>
+        <item> Date</item>
+        <item> No national fruits</item>
+        <item> Durian</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> Chicken egg banana</item>
+        <item> No national fruit</item>
+        <item> Pomegranate</item>
+        <item> Dates</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> Blackberry</item>
+        <item> No national fruit</item>
+        <item> Durian</item>
+        <item> Mangosteen </item>
+        <item> No national fruit</item>
+        <item> peaches</item>
+        <item> No national fruit</item>
+        <item> Pomegranate</item>
+        <item> No national fruit</item>
+        <item> No national fruit</item>
+        <item> Banana</item>
+        <item> No national fruit</item>
+        <item> Coconut(unofficial) </item>
+
+    </string-array>
+
+    <string name="Jujube">
+
+        The Jujube fruit, also called the Red Date, has been enjoyed for its health and well-being properties since thousands of years in South-East Asia. Packed with flavonoids, phenols and antioxidants, the fresh Jujube fruit has 20x more vitamin C than citrus fruits.
+
+    </string>
+
+    <string name="Mango">
+
+        Mangoes are juicy stone fruit from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. The majority of these species are found in nature as wild mangoes.
+
+    </string>
+
+    <string name="Durian">
+
+        The durian is the fruit of several tree species belonging to the genus Durio. There are 30 recognised Durio species, at least nine of which produce edible fruit, with over 300 named varieties in Indonesia, 100 in Thailand and 100 in Malaysia.
+
+    </string>
+
+    <string name="jackfruit">
+
+        The jackfruit, also known as jack tree, is a species of tree in the fig, mulberry, and breadfruit family. Its native range is unknown but most sources place its center of origin in the region between the Western Ghats of southern India to the rainforests of Borneo.
+
+
+    </string>
+
+    <string name="Persimmon">
+
+        The persimmon is the edible fruit of a number of species of trees in the genus Diospyros. The most widely cultivated of these is the Asian or Japanese persimmon, Diospyros kaki. Diospyros is in the family Ebenaceae, and a number of non-persimmon species of the genus are grown for ebony timber.
+
+    </string>
+
+    <string name="Pomegranate">
+
+        The pomegranate is a fruit-bearing deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m tall. The fruit is typically in season in the Northern Hemisphere from September to February, and in the Southern Hemisphere from March to May.
+
+    </string>
+
+    <string name="Mangosteen">
+
+        Mangosteen, also known as the purple mangosteen, is a tropical evergreen tree with edible fruit native to Island Southeast Asia. Its exact origins are unknown due to its widespread cultivation since ancient times, but it is believed to have been somewhere between the Sunda Islands and the Moluccas.
+
+    </string>
+
+    <string name="Rambutan">
+
+        The rambutan is a medium-sized tropical tree in the family Sapindaceae. The name also refers to the edible fruit produced by this tree. The rambutan is native to Malaysia, and other regions of tropical Southeast Asia.
+
+    </string>
+
+    <string name="Fig">
+
+        Ficus carica is an Asian species of flowering plant in the mulberry family, known as the common fig. It is the source of the fruit also called the fig and as such is an important crop in those areas where it is grown commercially.
+
+    </string>
+
+    <string name="Peach">
+
+        A peach is a soft, juicy and fleshy stone fruit produced by a peach tree. Peaches were cultivated in China as far back as 8,000 years ago, with domestication at least 4,000 years ago.
+
+    </string>
+
+    <string name="Date">
+
+        Dates are the fruit of the date palm tree, which is grown in many tropical regions of the world. Dates have become quite popular in recent years. Almost all dates sold in Western countries are dried. You can tell whether or not dates are dried based on their appearance.
+
+    </string>
+
+    <string name="Blackberry">
+
+        Native chiefly to north temperate regions, wild blackberries are particularly abundant in eastern North America and on the Pacific coast of that continent and are cultivated in many areas of North America and Europe.
+
+    </string>
+
+    <string name="Chicken_egg_banana">
+
+        Chicken Egg Banana (Musa aromatica): The National Fruit of the Kingdom of Cambodia. The Khmer common name is “Chek Pong Moan”. Its scientific name is “Musa aromatica”and English common name is “Chicken Egg Banana”.
+
+
+    </string>
+
+    <string name="Coconut">
+
+        The coconut tree is a member of the palm tree family and the only known living species of the genus Cocos. The term "coconut" can refer to the whole coconut palm, the seed, or the fruit, which botanically is a drupe, not a nut.
+
+    </string>
+
+    <string name="Banana">
+
+        A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
+
+    </string>
+
+    <string name="Apricot">
+
+        The apricot is a fruit that resembles the peach but much smaller, pale yellow or orange with some red shades. The pulp is not very juicy, it has fibre texture and farinaceous consistency when the apricot is mature. It is mainly consumed fresh, although it is also used to make some by-products like stewed fruit, jams, juices and dried apricots.
+
+    </string>
+
+    <string name="Avocado">
+
+        The avocado, a tree with probable origin in South Central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado, is botanically a large berry containing a single large seed.
+
+    </string>
+
+    <string name="Dragonfruit">
+
+        Dragon fruit, also known as pitaya or the strawberry pear, is a beautiful tropical fruit that is sweet and crunchy. Though it may look intimidating with its pinkish-red skin and light green scales, preparing this exotic fruit is easy.
+
+    </string>
+
+    <string name="Guava">
+
+        Guava is another tropical fruit rich in high-profile nutrients. With its unique flavor, taste, and health-promoting qualities, the fruit easily fits into the category of new functional foods, often labeled as “super-fruits.”
+
+        It is an evergreen, tropical shrub or small low-growing tree probably originated in the central Americas. Guavas actually thrive well under both humid and dry climates and can tolerate brief periods of cold spells, but can only withstand a few degrees of frost. Its adaptability to ranging environments makes it a favorite commercial crop in some tropical areas.
+
+    </string>
+
+    <string name="Pineapple">
+
+        The pineapple is a tropical plant with an edible fruit, also called a pineapple, and the most economically significant plant in the family Bromeliaceae. Pineapples may be cultivated from the offset produced at the top of the fruit, possibly flowering in five to ten months and fruiting in the following six months.
+
+    </string>
+
+    <string name="Watermelon">
+
+        The watermelon is a large fruit of a more or less spherical shape. It is usually eaten raw as table dessert. It has a sweet reddish or yellowish flesh. It is a very refreshing food that supplies very few calories. It also provides some vitamins and minerals.
+
+    </string>
+
+    <string name="Waxapple">
+
+        Wax apple is a very delicious tropical fruit, rich in vitamins and mineral elements, calories and fat are very low, sweet and delicious, having more is not easy to gain weight, fits in with modern health needs.
+
+    </string>
+
+    <string name="Cherry">
+
+        There are many health benefits of cherries. Cherries are packed full of nutrients to help combat disease and keep the body and mind healthy.
+
+    </string>
+
+    <string name="Lychee">
+
+        Lychee is a small fruit with a sweet smell and taste, which is available in the summer. It is a small fruit packed with healthy nutrients.
+
+    </string>
+
+    <string name="Plum">
+
+        The plum is a stone fruit, rounded or elongated that can be yellow, green, red or purple. In general, it is very nutritious and rich in vitamins, specially vitamin C.
+
+    </string>
+
+    <string name="Strawberry">
+
+        They are an excellent source of vitamin C and manganese and also contain decent amounts of folate (vitamin B9) and potassium. Strawberries are very rich in antioxidants and plant compounds, which may have benefits for heart health and blood sugar control.
+
+    </string>
+
+    <string name="Kiwano">
+
+         Kiwano melon is an exotic, peculiar-looking fruit from the central and southern regions of Africa. It’s formally known as Cucumis metuliferus but informally also goes by horned melonand African horned cucumber.
+
+    </string>
+
+    <string name="Lemon">
+
+        Lemons are a popular fruit that people use in small quantities and with herbs and spices, but they are rarely consumed alone, due to their intense, sour flavor.
+
+    </string>
+
+    <string name="Papaya">
+
+        Papaya is the fruit of the Carica papaya plant. Papaya contains an enzyme called papain, which can break down the tough protein chains found in muscle meat.
+
+    </string>
+
+    <string name="Grape">
+
+        A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil.
+
+    </string>
+
+    <string name="Lime">
+
+        Both its tangy juicy segments, and aromatic peel have their own admirers in the culinary arena. Fruit lime holds rather more essential oils, vitamin-A.
+
+    </string>
+
+    <string name="Cherimoya">
+
+        They may look a bit like green apples that were beaten up a bit, but the cherimoya is a fruit that Mark Twain once dubbed "the most delicious fruit known to men.
+
+    </string>
+
+    <string name="Clementine">
+
+        A clementine (Citrus × clementina) or easy peeler (British English) is a tangor, a citrus fruit hybrid between a willowleaf mandarin orange (C. × deliciosa) and a sweet orange (C. × sinensis), named for its late 19th-century discoverer. The exterior is a deep orange colour with a smooth, glossy appearance.
+
+    </string>
+
+    <string name="Kiwifruit">
+
+        Kiwi, (Actinidia deliciosa), also called kiwifruit or Chinese gooseberry, woody vine and edible fruit of the family Actinidiaceae. The plant is native to mainland China and Taiwan and is also grown commercially in New Zealand and California. The fruit has a slightly acid taste and can be eaten raw or cooked.
+
+    </string>
+
+    <string name="Orange">
+
+        The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae, native to China. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations.
+
+    </string>
+
+    <string name="Tangerine">
+
+        The tangerine is a group of orange-colored citrus fruit consisting of hybrids of mandarin orange. The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. Under the Tanaka classification system, Citrus tangerina is considered a separate species.
+
+    </string>
+
+    <string name="Melon">
+
+        A melon is any of various plants of the family Cucurbitaceae with sweet edible, fleshy fruit. The word "melon" can refer to either the plant or specifically to the fruit.
+
+    </string>
+
+    <string name="Pear">
+
+        The pear tree and shrub are a species of genus Pyrus, in the family Rosaceae, bearing the pomaceous fruit of the same name. Several species of pear are valued for their edible fruit and juices while others are cultivated as trees.
+
+    </string>
+
+    <string name="Apple">
+
+        An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today.
+
+    </string>
+
+    <string-array name="namess">
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Blackberry</item>
+        <item>Coconut</item>
+        <item>Date</item>
+        <item>Dragonfruit</item>
+        <item>Durian</item>
+        <item>Fig</item>
+        <item>Guava</item>
+        <item>Jackfruit</item>
+        <item>Jujube</item>
+        <item>Mango</item>
+        <item>Mangosteen</item>
+        <item>Passion</item>
+        <item>Peach</item>
+        <item>Persimmon</item>
+        <item>Pineapple</item>
+        <item>Pomegranate</item>
+        <item>Rambutan</item>
+        <item>Watermelon</item>
+        <item>Waxapple</item>
+    </string-array>
+
+    <string-array name="summer">
+        <item>Apricot</item>
+        <item> Blackberry</item>
+        <item> Durian </item>
+        <item>Cherry</item>
+        <item>Fig</item>
+        <item>Jackfruit</item>
+        <item>Lychee</item>
+        <item>Passion</item>
+        <item> Peach </item>
+        <item> Plums</item>
+        <item>Strawberry</item>
+        <item> Watermelon</item>
+    </string-array>
+
+    <string-array name="fall">
+        <item>Guava</item>
+        <item>Grape</item>
+        <item>Jujube</item>
+        <item>Lime</item>
+        <item>Passion </item>
+        <item>Pear</item>
+        <item>Pineapple </item>
+        <item>Pomegranate</item>
+
+    </string-array>
+
+    <string-array name="winter">
+        <item>Banana</item>
+        <item>Cherimoya</item>
+        <item>Clementine</item>
+        <item>Date</item>
+        <item>Kiwifruit</item>
+        <item>Orange</item>
+        <item>Persimmon</item>
+        <item>Tangerine</item>
+    </string-array>
+
+    <string-array name="spring">
+        <item>Apricot</item>
+        <item>Cherimoya</item>
+        <item>Lime</item>
+        <item>Mango</item>
+        <item>Melon</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>Strawberry</item>
+    </string-array>
+
+    <string-array name="all_season_fruits">
+        <item>Apple</item>
+        <item>Apricot</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Coconut</item>
+        <item>Kiwano</item>
+        <item>Lemon</item>
+        <item>Papaya</item>
+    </string-array>
+
+
+</resources>
